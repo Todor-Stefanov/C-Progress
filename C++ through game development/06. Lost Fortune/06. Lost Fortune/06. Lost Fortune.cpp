@@ -40,6 +40,6 @@ int main()
     cout << "\nThe party was about to give up all hope. But while laying the deceased to rest, ";
     cout << "they stumbled upon the buried fortune. So the adventurers split " << GOLD_PIECES;
     cout << " gold pieces. " << leader << " held on to the extra " << GOLD_PIECES % survivors << " pieces to keep things fair of course." << endl;
-
+   
     return 0;
 }
