@@ -5,7 +5,6 @@
 // sign of their product(i.e.the sign of the number resulting from
 // the multiplication of the 3 numbers).If the product is 0, print + .
 
-
 #include <iostream>
 using namespace std;
 
